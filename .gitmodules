@@ -1,0 +1,4 @@
+[submodule "private-ts-module"]
+	path = private-ts-module
+	url = https://github.com/rlrobles/private-ts-module.git
+	branch = main
