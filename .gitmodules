@@ -1,4 +1,4 @@
-[submodule "private-ts-module"]
-	path = private-ts-module
-	url = https://github.com/rlrobles/private-ts-module.git
+[submodule "apidb-ts-library"]
+	path = apidb-ts-library
+	url = https://github.com/rlrobles/apidb-ts-library.git
 	branch = main
